@@ -13,7 +13,7 @@ class Calculator(QWidget):
     def initUI(self):
         self.setGeometry(150, 400, 280, 345)
         self.setWindowTitle("Калькулятор")
-        self.setWindowIcon(QIcon('static\\img\\калк.png'))
+        self.setWindowIcon(QIcon('static/img/icon.png'))
         self.setObjectName("MainWindow")
         self.setStyleSheet("#MainWindow {background-color: black;}")
 
