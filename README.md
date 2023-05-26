@@ -9,6 +9,6 @@ pip install PyQt5
 ```
 mkdir src
 cd src
-git clone https://github.com/Anette202005/calculator.git .
+git clone https://github.com/Anette202005/Calculator.git .
 python calc.py
 ```
